@@ -1,0 +1,7 @@
+echo "# Arena-Worldwide-Logistics-Pvt-Ltd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Arenaworldwide/Arena-Worldwide-Logistics-Pvt-Ltd.git
+git push -u origin main
